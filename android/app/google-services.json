@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "248826165993",
+    "project_id": "eatme-8ef35",
+    "storage_bucket": "eatme-8ef35.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:248826165993:android:8071aff3628b1beb52ce78",
+        "android_client_info": {
+          "package_name": "com.example.eatme"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "248826165993-8sqrjqul75v9s04irmpbqv98pe4tutv5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUABRhkzpezdnS_ux5MA2vWWXMskO-rxA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "248826165993-8sqrjqul75v9s04irmpbqv98pe4tutv5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
